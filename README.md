@@ -8,9 +8,9 @@ Data Science Researcher @ BU
 - blah
 - blah
 
-  ### Projects
-  trends
-  - jdkc
-  - dhcjd
- 
+### Projects
+trends
+- jdkc
+- dhcjd
+
   
