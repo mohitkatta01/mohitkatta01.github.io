@@ -6,14 +6,5 @@ theme: jekyll-theme-minimal
 
 # Social media links
 
-social:
-  linkedin: [mohit-katta](https://www.linkedin.com/in/mohit-katta)
-
-# Email address
-
-email: [Email](mailto:mohit.kvs1@gmail.com)
-
-# Resume file
-
-resume:
-  file: /assets/mohit_katta_resume.pdf
+social_links:
+  linkedin: [https://www.linkedin.com/in/mohit-katta]
