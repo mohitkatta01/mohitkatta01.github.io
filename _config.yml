@@ -3,3 +3,17 @@ logo: /assets/img/mohit-photo-eclipse.png
 description: Just another Data Science Graduate; Researching in NLP :)
 show_downloads: true
 theme: jekyll-theme-minimal
+
+# Social media links
+
+social:
+  linkedin: [mohit-katta](https://www.linkedin.com/in/mohit-katta)
+
+# Email address
+
+email: [Email](mailto:mohit.kvs1@gmail.com)
+
+# Resume file
+
+resume:
+  file: /assets/mohit_katta_resume.pdf
