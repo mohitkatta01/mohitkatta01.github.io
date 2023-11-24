@@ -6,7 +6,7 @@
 - B.S. (Hons.), Computer Science | Heriot-Watt University (_May 2022_)
  
 ## Work Experience
-**Graduate Data Science Research Assistant (_Dec 2022 - Present_)**
+**Graduate Data Science Research Assistant (_Dec 2022 - Present_)** <br>
 *Boston University Henry M. Goldman School of Dental Medicine*
 - Examined 40,000+ American's tweets related to Vaccine and fluoride, to identify trends in beliefs.
 - Reduced manual assigning of sentiments on tweets by 40%; created a ML pipeline to perform Preprocessing, fine-tuning a transformer model to automatically assign sentiments.
@@ -14,21 +14,21 @@
 - Developed correlation matrices and Bar plots to assess the trends over 3 time periods: Pre Pandemic, During Pandemic and post pandemic.
 - **Skills: Python, Machine Learning, NLP, Predictive Modelling, Research Skills**
 
-**Information Technology Help Desk Technician (_Sept 2022 - Present_)**
+**Information Technology Help Desk Technician (_Sept 2022 - Present_)** <br>
 *Boston University Metropolitan College*
 - Resolved 200+ tickets within a span of 1 year with over 90% client satisfaction rate.
 - Troubleshooted hardware and software issues such as Power BI, VMWare and Citrix Virtual Labs via ServiceNow ticketing system, phone calls and Bomgar remote desktop assistant.
 - Trained a team of 4 new hirees to assist clients with various troubleshooting tasks and handling clients face-to-face.
 - **Skills: Team leading, Attention to detail, Customer-facing role, Management**
 
-**Data Science Intern (_Jun 2022 - Aug 2022_)**
+**Data Science Intern (_Jun 2022 - Aug 2022_)** <br>
 *Apparel Group*
 - Optimized the inventory for the Charles & Keith brand by developing a sales predictive algorithm; Reduced unused inventory by an average of 15% per store.
 - Analyzed diverse data factors, such as customer demographics, store locations, seasonal trends, store sizes, and fashion cycles, to enhance the algorithm's performance.
 - Deployed a Sales Predictor Model, with an accuracy of 75% at the time of deployment, providing valuable insights and optimization solutions for the brand.
 - **Skills: Time Series Forecasting, Qualitative Analysis, Natural Language Processing (NLP), MicroStrategy, Microsoft Excel, PowerBi**
 
-**Undergraduate Teaching Assistant (_Sep 2021 - Jun 2022_)**
+**Undergraduate Teaching Assistant (_Sep 2021 - Jun 2022_)** <br>
 *Heriot-Watt University*
 - Provided teaching and support to students in introductory computer science courses, including Java, Python and R.
 - Graded student assignments and exams, and provided feedback to help students improve their learning.
@@ -74,22 +74,25 @@
 - Organized and executed a university-wide competition for the best UI/UX frontend website, promoting creativity and innovation among students.
 - Stayed up-to-date on the latest UI/UX trends and technologies, and shared knowledge with the team through regular presentations and discussions.
 - Fostered a positive and supportive team environment, encouraging collaboration and creativity.
-<br></br>
+<br>
+<br>
 *Cyber Security Analyst (_Oct 2020 - Jun 2022_)*
 - Developed and maintained a Virus scanner application using Python which checks for potential scamming websites via a chrome extension.
 - Hosted and delivered educational YouTube talks to promote awareness on different types of Wireless Hacking and OSINT Technologies.
 - Collaborated with other Tech Club members to organize and execute cybersecurity workshops and events.
 - Kept up-to-date with the latest cybersecurity trends and technologies, and shared this knowledge with the Tech Club community.
 - Provided cybersecurity support and guidance to Tech Club members and other students.
-<br></br>
+<br>
+<br>
 *Creatives and Video Editor (_Jul 2020 - May 2021_)*
 - Created and edited engaging videos to promote the Tech Club's events and initiatives.
 - Collaborated with other creatives to develop and produce video content that was both informative and entertaining.
 - Managed the Tech Club's social media accounts and used video to create a strong online presence.
 - Analyzed video performance data to identify areas for improvement.
 - Stayed up-to-date on the latest video editing trends and technologies.
-<br></br>
-**The Uplift Foundation (_Jul 2020 - Jun 2021_)**
+<br>
+<br>
+**The Uplift Foundation (_Jul 2020 - Jun 2021_)**<br>
 *Graphic Designer*
 - Created brand guidelines for posting consistent content on social media accounts
 - Spearheaded a team of 4 people to convert text to interative and eye-catching content.
