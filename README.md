@@ -68,15 +68,15 @@
 - Employed a comprehensive set of evaluation metrics, including Accuracy, F-Score, ROC/AUC curve, precision, and recall, to assess the effectiveness of each model.
 
 ## Volunteering & Student Clubs
-**HW Tech Club**
-*Design Director (_May 2021 - Jun 2022_)*
+**HW Tech Club**<br>
+*Design Director (May 2021 - Jun 2022)*
 - Managed a team of 5 students, providing guidance and mentorship on UI/UX design principles and tools.
 - Organized and executed a university-wide competition for the best UI/UX frontend website, promoting creativity and innovation among students.
 - Stayed up-to-date on the latest UI/UX trends and technologies, and shared knowledge with the team through regular presentations and discussions.
 - Fostered a positive and supportive team environment, encouraging collaboration and creativity.
 <br>
 <br>
-*Cyber Security Analyst (_Oct 2020 - Jun 2022_)*
+*Cyber Security Analyst (Oct 2020 - Jun 2022)*
 - Developed and maintained a Virus scanner application using Python which checks for potential scamming websites via a chrome extension.
 - Hosted and delivered educational YouTube talks to promote awareness on different types of Wireless Hacking and OSINT Technologies.
 - Collaborated with other Tech Club members to organize and execute cybersecurity workshops and events.
@@ -84,7 +84,7 @@
 - Provided cybersecurity support and guidance to Tech Club members and other students.
 <br>
 <br>
-*Creatives and Video Editor (_Jul 2020 - May 2021_)*
+*Creatives and Video Editor (Jul 2020 - May 2021)*
 - Created and edited engaging videos to promote the Tech Club's events and initiatives.
 - Collaborated with other creatives to develop and produce video content that was both informative and entertaining.
 - Managed the Tech Club's social media accounts and used video to create a strong online presence.
@@ -92,12 +92,12 @@
 - Stayed up-to-date on the latest video editing trends and technologies.
 <br>
 <br>
-**The Uplift Foundation (_Jul 2020 - Jun 2021_)**<br>
+**The Uplift Foundation (Jul 2020 - Jun 2021)**<br>
 *Graphic Designer*
 - Created brand guidelines for posting consistent content on social media accounts
 - Spearheaded a team of 4 people to convert text to interative and eye-catching content.
 
-## Publications
-1. Predicting stock prices — a sentiment analysis approach [Medium Blog](https://medium.com/@mohit-katta/predicting-stock-prices-a-sentiment-analysis-approach-e93ed37ee7a8)
+## Blog
+1. Predicting stock prices — a sentiment analysis approach 
+- [Medium Blog](https://medium.com/@mohit-katta/predicting-stock-prices-a-sentiment-analysis-approach-e93ed37ee7a8)
 
-- [Medium Data Science Blog](https://medium.com/@mohit-katta)
