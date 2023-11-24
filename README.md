@@ -1,4 +1,4 @@
-# Data Analytics Graduate
+# Applied Data Analytics Graduate
 #### Technical Skills: Python, R, SQL, AWS, GCP, Apache Spark, Apache Kafka
 
 ## Education							       		
@@ -97,3 +97,7 @@
 - Created brand guidelines for posting consistent content on social media accounts
 - Spearheaded a team of 4 people to convert text to interative and eye-catching content.
 
+## Publications
+1. Predicting stock prices — a sentiment analysis approach [Medium Blog](https://medium.com/@mohit-katta/predicting-stock-prices-a-sentiment-analysis-approach-e93ed37ee7a8)
+
+- [Medium Data Science Blog](https://medium.com/@mohit-katta)
