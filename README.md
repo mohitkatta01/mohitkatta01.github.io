@@ -1,9 +1,9 @@
 # Applied Data Analytics Graduate
-#### Technical Skills: Python, R, SQL, AWS, GCP, Apache Spark, Apache Kafka
+#### Technical Skills: Python, R, SQL, Bash Scripting, AWS, GCP, Apache Spark, Apache Kafka, Power BI, Linux Programming
 
 ## Education							       		
-- M.S., Applied Data Analytics	| Boston University (_Jan 2024_)	 			        		
-- B.S. (Hons.), Computer Science | Heriot-Watt University (_May 2022_)
+- M.S, Applied Data Analytics	| Boston University (_Jan 2024_)	 			        		
+- B.S (Hons.), Computer Science | Heriot-Watt University (_May 2022_)
  
 ## Work Experience
 **Graduate Data Science Research Assistant (_Dec 2022 - Present_)** <br>
@@ -37,6 +37,19 @@
 
 
 ### Projects
+
+**Generating customer service responses using Hugging face LLMs**
+- Automated the process of responding to customer's client support messages. The goal is to improve customer satisfaction and reduce the amount of time spent on customer support.
+- Designed a framework to connect a front-end chat system to a Hugging Face LLM using Streamlit.
+- Produced a Fine-tuned LLM with a large dataset (15 GB) and converted the response into an audio file using AWS Polly.
+- Scaled the system with Apache Kafka, AWS S3 and Redis – for faster access and reduced latency
+- Fine tuned the model on Google’s TPUs and hosted the rest of the framework on AWS, GitHub, and Redis Cloud. 
+
+**Apache Kafka - Real-time Hate Speech analysis on Discord servers**
+- Designed a framework to listen to messages on subscribed Discord servers and analyze the type of hate speech.
+- Scaled the system using Apache Kafka and Streamlit to accommodate multiple discord servers without changing any backend code.
+- Hosted the code on GitHub and Streamlit for ease of access and usage.
+
 **Trends in American's Beliefs about Fluoride from Twitter**
 - Conducted in-depth analysis of public sentiment regarding water fluoridation. Employing advanced techniques to extract 80,000 relevant tweets leveraging a Web Scraping tool via Digital Ocean VPC.
 - Collected a subset of 1000 tweets for manual labeling; Later used for fine tuning a Transformer model (RoBERTa).
@@ -100,4 +113,7 @@
 ## Blog
 1. Predicting stock prices — a sentiment analysis approach 
 - [Medium Blog](https://medium.com/@mohit-katta/predicting-stock-prices-a-sentiment-analysis-approach-e93ed37ee7a8)
+
+2. Apache Kafka — Real-time Hate Speech analysis on Discord servers
+- [Medium Blug](https://medium.com/@mohit-katta/apache-kafka-real-time-hate-speech-analysis-on-discord-servers-ca052ea75e5c)
 
