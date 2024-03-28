@@ -35,6 +35,13 @@
 - Led weekly discussion sections and helped students understand complex concepts and solve problems.
 - **Skills: Management, Research Skills, Git, Problem Solving, Python**
 
+**Data Consultant (_Nov 2020 - May 2022_)**
+*COGOS Technologies*
+- Analyzed data and created a platform for integrating operations post-acquisition at Cogos.
+- Led machine learning projects for route and capacity optimization after the acquisition.
+- Demonstrated expertise in data-driven decision-making and machine learning.
+- Created a data warehouse and platform pre-acquisition.
+- **Skills: Project Management, MS Excel, GitHub, Open Source Softwares**
 
 ### Projects
 
